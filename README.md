@@ -27,3 +27,7 @@ Public Key : [GPG Key](https://github.com/KesarBrown/id/blob/main/gpg.publickey.
 * Why ‘Kesar Brown’?  Well, why not? Kesar means Saffron, a powerful spice and  Brown because I don’t want it to be black or white. 
 * A human can vanish due to it's biological process. If the identity can be separated it can live and attach to anyone willing to responsibly and respectfully embody the identity within the family. A few close friends and family will always know the person beneath this identity.
 * An Identity that allows me to express creative freedom. But also an identity that allows me to undo the effects/influence of social media algorithms. When you allow yourself to start from zero where the internet brain hasn't learnt about you, then you can pick and chose who to follow and what comes in your media feed. Ultimately, the basis of human body is that it becomes what it consumes from it's surrounding and our brain is no different.
+
+
+### References:
+* History has it, when an identity becomes bigger than it's life, you might have the strength as an individual to not let your shadow bully you. But it has real consequences on the vulnerable people in your life. [Julia Roberts articulates it well](https://youtu.be/j6gyXg7Uyyc?si=Xwapa0EiNTknSPuB&t=84) 
