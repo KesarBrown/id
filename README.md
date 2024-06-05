@@ -30,4 +30,5 @@ Public Key : [GPG Key](https://github.com/KesarBrown/id/blob/main/gpg.publickey.
 
 
 ### References:
-* History has it, when an identity becomes bigger than it's life, you might have the strength as an individual to not let your shadow bully you. But it has real consequences on the vulnerable people in your life. [Julia Roberts articulates it well](https://youtu.be/j6gyXg7Uyyc?si=Xwapa0EiNTknSPuB&t=84) 
+* History has it, when an identity becomes bigger than it's life, you might have the strength as an individual to not let your shadow bully you. But it has real consequences on the vulnerable people in your life. [Julia Roberts articulates it well](https://youtu.be/j6gyXg7Uyyc?si=Xwapa0EiNTknSPuB&t=84)
+* Example of a controversial but important thought: https://x.com/KesarBrown/status/1792378947856159098  this tweet can offend people in a way you can't imagine.
